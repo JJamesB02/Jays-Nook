@@ -1,2 +1,2 @@
 # Jay's Lil Corner
- Just a personal repo to hold shit
+ Just a personal repo to personal projects and files
