@@ -67,7 +67,7 @@
 	--home-size: 0px; /* home button icon size [default: 40px] */
 	
 	/* MODAL BACKDROP */
-	--backdrop-overlay: rgba(0, 0, 0, 0.8); /* modal backdrop overlay color/gradient [default: rgba(0, 0, 0, 0.8)] */
+	--backdrop-overlay: rgba(231, 42, 87, 1); /* modal backdrop overlay color/gradient [default: rgba(0, 0, 0, 0.8)] */
 	--backdrop-image: var(--background-image); /* modal backdrop image (link must be HTTPS) [default: var(---background-image)] */
 	--backdrop-position: var(--background-position); /* modal backdrop position [default: var(---background-position)] */
 	--backdrop-size: var(--background-size); /* modal backdrop size [default: var(---background-size)] */
