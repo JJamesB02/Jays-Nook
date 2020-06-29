@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900');
 @import url("https://gibbu.github.io/BetterDiscord-Themes/MinimalCord/base.css");
 @import url('https://gibbu.github.io/BetterDiscord-Themes/HorizontalServerlist/base.css');
+@import url(https://clearvision.gitlab.io/v6/main.css);
 
 /* Black Box user tags */
 @import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
@@ -21,69 +22,8 @@
 	--background-1: #090d12;
     --background-2: #090d12;
 	--message-box: #0d1015;
-	--channel-hovered-text: 	#fcfc64;
- 
-    /*
-        To use a custom font. Visit https://fonts.google.com and select one to your liking.
-        Now just follow this tutorial: https://imgur.com/a/CNbw7xC
-    */
-    --font: 'Roboto';
-}
-
-.membersGroup-v9BXpm{text-align:center}
-.listItemWrapper-3X98Pc .childWrapper-anI2G9{
-    content: url("https://i.imgur.com/wvVddGT.png"); background: #252831\;}
+	--channel-hovered-text: #fcfc64;
 	
-	:root {
-  --server-size: var(--HSL-server-icon-size, var(--HSL-size, 60px));
-  --server-spacing: var(--HSL-server-spacing, var(--HSL-spacing, 20px));
-  --server-container: calc(var(--server-size) + 20px);
-}
-
- 
-/*Date*/
- .content-1o0f9g {
-	color: #fcfc64;
-	font-size: 12px;
-	text-align: center
-}
-/*Member List*/
-.listContent-2_qb-y{
-	background-color: var(--background-1) !important;
-}
-
-.embedFull-2tM8--
-{
-    border-radius: 10px;
-    border-left: none;
-    border-top: 20px solid gray;
-    background: #27282C;
-    box-shadow: 0 0 10px 0px #000;
-}
-.embedFull-2tM8--{
-    border-radius: 5;
-    -webkit-border-radius: 5;
-    -moz-border-radius: 0;
-    -ms-border-radius: 0;
-    -o-border-radius: 0;
-    background: #0003;
-}	
-/*Selected Channel */
-#app-mount .sidebar-2K8pFh .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU .icon-1_QxNX, #app-mount .sidebar-2K8pFh .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU .name-3_Dsmg { color: #fcfc64; }
-/*Selected Channel */
-
-/*Minimal Cord End */
-
-/*Clear Vision Start */
-
-/* Credits to Zerthox for making the original theme. */
-
-/* IMPORT CSS */
-@import url(https://clearvision.gitlab.io/v6/main.css);
-
-/* SETTINGS */
-:root {
-
 	/* ACCENT COLORS */
 	--main-color: #2780e6; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
 	--hover-color: #1e63b3; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
@@ -174,4 +114,54 @@
 	--bd-blue-hover: var(--hover-color); /* betterdiscord hover color [default: var(--hover-color)] */
 	--bd-blue-active: var(--hover-color); /* betterdiscord active color [default: var(--hover-color)] */
 }
-/*Clear Vision End */
+ 
+    /*
+        To use a custom font. Visit https://fonts.google.com and select one to your liking.
+        Now just follow this tutorial: https://imgur.com/a/CNbw7xC
+    */
+    --font: 'Roboto';
+}
+
+.membersGroup-v9BXpm{text-align:center}
+.listItemWrapper-3X98Pc .childWrapper-anI2G9{
+    content: url("https://i.imgur.com/wvVddGT.png"); background: #252831\;}
+	
+	:root {
+  --server-size: var(--HSL-server-icon-size, var(--HSL-size, 60px));
+  --server-spacing: var(--HSL-server-spacing, var(--HSL-spacing, 20px));
+  --server-container: calc(var(--server-size) + 20px);
+}
+
+ 
+/*Date*/
+ .content-1o0f9g {
+	color: #fcfc64;
+	font-size: 12px;
+	text-align: center
+}
+/*Member List*/
+.listContent-2_qb-y{
+	background-color: var(--background-1) !important;
+}
+
+.embedFull-2tM8--
+{
+    border-radius: 10px;
+    border-left: none;
+    border-top: 20px solid gray;
+    background: #27282C;
+    box-shadow: 0 0 10px 0px #000;
+}
+.embedFull-2tM8--{
+    border-radius: 5;
+    -webkit-border-radius: 5;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    background: #0003;
+}	
+/*Selected Channel */
+#app-mount .sidebar-2K8pFh .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU .icon-1_QxNX, #app-mount .sidebar-2K8pFh .wrapper-1ucjTd.modeSelected-1zApJ_ .content-3at_AU .name-3_Dsmg { color: #fcfc64; }
+/*Selected Channel */
+
+/*Minimal Cord End */
