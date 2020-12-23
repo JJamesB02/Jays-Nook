@@ -1,7 +1,9 @@
 {
-    "name": "bang",
-    "description": "Tbh, just really gonna fuck around and try to make it look its best",
-    "version": "0.1",
-    "author": "ChunkyMonkey#2618",
+    "name": "Obsidian",
+    "description": "A stunning child of ClearVision and MinimalCord.",
+    "version": "1.0.0",
+    "author": "ClearVision Team, Gibbu, and JJ",
     "theme": "theme.css",
+    "consent": "false",
+    "license": "MIT"
 }
