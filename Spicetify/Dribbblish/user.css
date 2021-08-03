@@ -593,45 +593,21 @@ li.GlueDropTarget {
     opacity: 1;
 }
 
-/** Rearrange player bar */
-.main-nowPlayingBar-left {
-    order: 1;
-    flex: 1;
-    width: auto;
-    min-width: 0 !important;
+/* Main Play Button Change */
+.main-playButton-PlayButton.main-playButton-primary {
+    color: var(--spice-main);
+    background-color: var(--spice-play-button);
+    box-shadow: var(--spice-shadow) 0 5px 4px 0px;
 }
 
-.main-nowPlayingBar-center {
-    order: 0;
-    flex: 1;
-    width: auto;
-    min-width: unset !important;
+.main-entityHeader-image {
+    border-radius: 5%;
 }
 
-.main-nowPlayingBar-right {
-    order: 2;
-    flex: 1;
-    width: auto;
-    min-width: unset !important;
-}
-
-.main-nowPlayingWidget-nowPlaying {
-    justify-content: center;
-}
-
-.player-controls {
-    justify-content: flex-start;
-    flex-direction: row;
-}
-
-.main-playPauseButton-button {
-    background-color: transparent;
-}
-
-.main-playPauseButton-button svg {
-    width: 32px !important;
-    height: 32px !important;
-    color: var(--spice-button);
+.x-downloadButton-button {
+    box-shadow: var(--spice-shadow) 0 5px 4px 0px;
+    background: var(--spice-player);
+    border-radius: 50%;
 }
 
 /** Main container */
