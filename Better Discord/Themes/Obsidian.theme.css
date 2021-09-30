@@ -182,7 +182,13 @@
     padding: 6px 8px;
     max-height: calc(100vh - 32px);
 	border-radius: 25px;
-    background: var(--yellow);
+    background: var(--Green);
+}
+
+/*background*/
+.appMount-3lHmkl, body {
+    background-color: var(--background);
+    text-rendering: optimizeLegibility;
 }
 
 /*Friends List*/
@@ -336,9 +342,16 @@
 /*Message Bubbles*/
 #app-mount .cozyMessage-3V1Y8y {
     background: var(--background-light);
-    margin: 0 8px 0 16px;
-    padding: var(--message-padding);
-    border-radius: 5px;}
+    margin: 0 8px 0 15px;
+    border-radius: 7px;}
+	
+.group-spacing-16 .groupStart-23k01U {
+    margin-top: 13px !important;
+}
+.cozyMessage-3V1Y8y.groupStart-23k01U {
+    min-height: 2.75rem;
+}
+	
 /*Message Bubbles*/
 
 /* Message container */
