@@ -1,0 +1,7 @@
+<Icon>C:\Users\JJame\Documents\Rainmeter\Skins\NXT-OS\@Resources\DockIcons\Chrome.png</Icon><Path>C:\Program Files\Google\Chrome\Application\chrome.exe</Path><Text>Chrome</Text><Format>1</Format>
+<Icon>C:\Users\JJame\Documents\Rainmeter\Skins\NXT-OS\@Resources\DockIcons\TheNodeMC.png</Icon><Path>C:\Users\JJame\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Notion.lnk</Path><Text>Notion</Text><Format>1</Format>
+<Icon>C:\Users\JJame\Documents\Rainmeter\Skins\NXT-OS\@Resources\DockIcons\Spotify.png</Icon><Path>C:\Users\JJame\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Spotify.lnk</Path><Text>spotify</Text><Format>1</Format>
+<Icon>C:\Users\JJame\Documents\Rainmeter\Skins\NXT-OS\@Resources\DockIcons\Discord.png</Icon><Path>C:\Users\JJame\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc\Discord.lnk</Path><Text>Discord</Text><Format>1</Format>
+<Icon>C:\Users\JJame\Documents\Rainmeter\Skins\NXT-OS\@Resources\DockIcons\Word.png</Icon><Path>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Word.lnk</Path><Text>Word</Text><Format>1</Format>
+<Icon>C:\Users\JJame\Documents\Rainmeter\Skins\NXT-OS\@Resources\DockIcons\Excel.png</Icon><Path>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Excel.lnk</Path><Text>Excel</Text><Format>1</Format>
+<Icon>C:\Users\JJame\Documents\Rainmeter\Skins\NXT-OS\@Resources\DockIcons\bitdefender_by_ironera_ddqlzk6.png</Icon><Path>C:\Program Files\Bitdefender\Bitdefender Security\seccenter.exe</Path><Text>Bitdefender</Text><Format>1</Format>
