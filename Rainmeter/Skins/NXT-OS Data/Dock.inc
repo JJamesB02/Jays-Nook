@@ -5,3 +5,7 @@
 <Icon>C:\Users\JJame\Documents\Rainmeter\Skins\NXT-OS\@Resources\DockIcons\Word.png</Icon><Path>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Word.lnk</Path><Text>Word</Text><Format>1</Format>
 <Icon>C:\Users\JJame\Documents\Rainmeter\Skins\NXT-OS\@Resources\DockIcons\Excel.png</Icon><Path>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Excel.lnk</Path><Text>Excel</Text><Format>1</Format>
 <Icon>C:\Users\JJame\Documents\Rainmeter\Skins\NXT-OS\@Resources\DockIcons\bitdefender_by_ironera_ddqlzk6.png</Icon><Path>C:\Program Files\Bitdefender\Bitdefender Security\seccenter.exe</Path><Text>Bitdefender</Text><Format>1</Format>
+<Icon>C:\Users\JJame\Documents\Rainmeter\Skins\NXT-OS\@Resources\DockIcons\output-onlinepngtools (4).png</Icon><Path>C:\Users\JJame\AppData\Local\Amazon\Kindle\application\Kindle.exe</Path><Text>Kindle</Text><Format>1</Format>
+<Icon>C:\Users\JJame\Documents\Rainmeter\Skins\NXT-OS\@Resources\DockIcons\RealAuthy.png</Icon><Path>C:\Users\JJame\AppData\Local\authy\Authy Desktop.exe</Path><Text>Authy</Text><Format>1</Format>
+<Icon>C:\Users\JJame\Documents\Rainmeter\Skins\NXT-OS\@Resources\DockIcons\output-onlinepngtools (5).png</Icon><Path>https://ccsu.blackboard.com/ultra/course</Path><Text>Blackboard</Text><Format>4</Format>
+<Icon>C:\Users\JJame\Documents\Rainmeter\Skins\NXT-OS\@Resources\DockIcons\output-onlinepngtools (6).png</Icon><Path>https://ssb-prod.ec.ccsu.edu/ssomanager/saml/login?relayState=/c/auth/SSB</Path><Text>WebCentral</Text><Format>4</Format>

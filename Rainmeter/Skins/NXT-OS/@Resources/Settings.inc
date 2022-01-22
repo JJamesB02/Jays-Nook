@@ -30,8 +30,8 @@
 [Variables]
 Animate.Hud=1
 Animation.Dock=5
-Animation.FPS=25
-Animation.Hud=30
+Animation.FPS=16
+Animation.Hud=40
 Animation.Notify=50
 
 CenterClock.AlbumDisplay=1
@@ -79,7 +79,7 @@ GameDrawer.SteamUserDataID=154275972
 
 GameMode.Enable=0
 GameMode.Mode=0
-GameMode.Blacklist=
+GameMode.Blacklist=Spotify|
 GameMode.Known=
 GameMode.Detect=35
 
