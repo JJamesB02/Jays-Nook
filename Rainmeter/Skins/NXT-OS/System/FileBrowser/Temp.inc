@@ -1,8 +1,8 @@
 [Variables]
 Style=1
-Path=C:\Users\JJame\Documents\Rainmeter\Skins\NXT-OS\@Resources\DockIcons\
+Path=
 Mode=1
-Bangs=[!SetVariable "TempIcon" "$FileBrowser.Output$" "NXT-OS\Settings"]
+Bangs=
 SortBy=Date
 Ascending=1
-Target=NXT-OS\Settings
+Target=

@@ -4,11 +4,6 @@
     "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Twilio Inc\\Authy Desktop.lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\29b7624345915a1d8802c3afeb5e987d6ac6499607348345a277dbf8109a0e70.ico"
   },
-  "3b8fa3c9b13e322d8d4845e4369587a40c9008879fbc881aae7234ec9d9ab01b":{
-    "itemName":"iTunes",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\iTunes\\iTunes.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\3b8fa3c9b13e322d8d4845e4369587a40c9008879fbc881aae7234ec9d9ab01b.ico"
-  },
   "c35465c7e0bb3cc47bbfbba7b4d65a0ca10263458a28e509471d8f6bb614065a":{
     "itemName":"Outlook",
     "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Outlook.lnk",
@@ -31,25 +26,16 @@
     "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\System Information.lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\7e17b22bc49e0f71297b569cbd4c1513beb0b2f23a6a8974697c9afc757498b9.ico"
   },
-  "c280dba89f13cc5d0051f0191e6c2a2a8268b22b74bdd07ff53275f4953d7b08":{
-    "itemName":"Discord Canary",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Discord Inc\\Discord Canary.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\c280dba89f13cc5d0051f0191e6c2a2a8268b22b74bdd07ff53275f4953d7b08.ico"
-  },
-  "341adad8699871e1ba22b8febfda9761049edc4637ab632a7c35a417ef69cb40":{
-    "itemName":"Ubisoft Connect",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Ubisoft\\UbisoftConnect\\Ubisoft Connect.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\341adad8699871e1ba22b8febfda9761049edc4637ab632a7c35a417ef69cb40.ico"
-  },
   "abd90cd467f6bf2e4760df7a84358a5f509e68021dbe383adbef822c347ba591":{
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\abd90cd467f6bf2e4760df7a84358a5f509e68021dbe383adbef822c347ba591.ico",
     "itemName":"File Explorer",
     "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\File Explorer.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\abd90cd467f6bf2e4760df7a84358a5f509e68021dbe383adbef822c347ba591.ico"
+    "scoutHits":1
   },
-  "89a39467c13e62945e2c829f85f35f97d9021d027423b39507ba8a9f25743bea":{
-    "itemName":"GeForce Experience",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\NVIDIA Corporation\\GeForce Experience.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\89a39467c13e62945e2c829f85f35f97d9021d027423b39507ba8a9f25743bea.ico"
+  "11a1962467c68cf72cfa07fececace07c248ee9fe012a29e094567460e20b938":{
+    "itemName":"Windows PowerShell ISE",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\11a1962467c68cf72cfa07fececace07c248ee9fe012a29e094567460e20b938.ico"
   },
   "7c6a63bd2693f94f70d33a9d788c16addf7d9368b9488ef2d1b51e8c5950ebf1":{
     "itemName":"Microsoft Edge",
@@ -61,25 +47,10 @@
     "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Command Prompt.lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\5a30cf2a5f63caa7ac01c80e9837c2847594f12be421294a03e97d36f05e8221.ico"
   },
-  "c29d122cbcb43546e4171f9f4f5fe4d5e67d1c42b7c8861617d1fa932db083ec":{
-    "itemName":"calibre - E-book management",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\calibre - E-book Management\\calibre - E-book management.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\c29d122cbcb43546e4171f9f4f5fe4d5e67d1c42b7c8861617d1fa932db083ec.ico"
-  },
   "86dfbb663988aefb3e29f296d50237f376f0056352e4f5b1a64577967e875a42":{
     "itemName":"Resource Monitor",
     "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Resource Monitor.lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\86dfbb663988aefb3e29f296d50237f376f0056352e4f5b1a64577967e875a42.ico"
-  },
-  "f6c88fc1a89af6afbafbb3eca6a7903b2d98f05d452dff7f702f9580be6b6ce5":{
-    "itemName":"Console RAR manual",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\Console RAR manual.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\f6c88fc1a89af6afbafbb3eca6a7903b2d98f05d452dff7f702f9580be6b6ce5.ico"
-  },
-  "11882c247adfd79bbb82ad86ecbbcd2d2123e76846cbb2ce58fefd638a42ec1b":{
-    "itemName":"Git Bash",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git Bash.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\11882c247adfd79bbb82ad86ecbbcd2d2123e76846cbb2ce58fefd638a42ec1b.ico"
   },
   "Notes":{
     "itemName":"Notes",
@@ -89,30 +60,15 @@
     "itemPath":"[!ActivateConfig \"NXT-OS\\Notes\" \"Notes.ini\"]",
     "scoutHits":1
   },
-  "0ce6327bbd47b8da992215d68069b4f72bafe9c706c5ff4c2522ba745b545462":{
-    "itemName":"ODBC Data Sources (32-bit)",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\ODBC Data Sources (32-bit).lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\0ce6327bbd47b8da992215d68069b4f72bafe9c706c5ff4c2522ba745b545462.ico"
-  },
-  "8aee505440043df1400f82091f4a1ff176ff58c0945a5d4ac59dd5b81daf60ff":{
-    "itemName":"Remote Desktop Connection",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Remote Desktop Connection.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\8aee505440043df1400f82091f4a1ff176ff58c0945a5d4ac59dd5b81daf60ff.ico"
-  },
   "f49c550528572fe9b98fb17fbe07554a648d182a968d858607f32e71798f6c7f":{
     "itemName":"dfrgui",
     "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\dfrgui.lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\f49c550528572fe9b98fb17fbe07554a648d182a968d858607f32e71798f6c7f.ico"
   },
-  "5dbb199e99b342a4198c3731db86e28e502013a9ca8556898076deff8d36eaac":{
-    "itemName":"Console RAR manual",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\Console RAR manual.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\5dbb199e99b342a4198c3731db86e28e502013a9ca8556898076deff8d36eaac.ico"
-  },
-  "349f0498a2222d29691b78c71d5cacbe4aaa2a65753b0d528dc6afbd9cb397db":{
-    "itemName":"Fairlight Studio Utility",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Blackmagic Design\\DaVinci Resolve\\Fairlight Studio Utility.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\349f0498a2222d29691b78c71d5cacbe4aaa2a65753b0d528dc6afbd9cb397db.ico"
+  "3b9efb7afdc9bda30b9bb124efae50278fc04e45f596dd6f2f723fa248b91246":{
+    "itemName":"Access",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Access.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\3b9efb7afdc9bda30b9bb124efae50278fc04e45f596dd6f2f723fa248b91246.ico"
   },
   "f07f280fed19d0a3c407ec5e6fad4901d2f8f01d60a7beae3a100b8dad27fee8":{
     "itemName":"Publisher",
@@ -124,162 +80,66 @@
     "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Word.lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\39b1b0a9ad14e8ff718e1e1593353c8fb8e6a2c6b83f0893f3611445bac511b8.ico"
   },
-  "c4e04cdf7f9b8c7c0be99db9d90cfb3c26c71ba378a39ece7491efb0d85120e2":{
-    "itemName":"Cisco Webex Meetings",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Cisco Webex Meetings Desktop App\\Cisco Webex Meetings.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\c4e04cdf7f9b8c7c0be99db9d90cfb3c26c71ba378a39ece7491efb0d85120e2.ico"
+  "ae6d1e5296cd41df785716fce60512178ae9ab3e6203938ee1c97fad75d011ae":{
+    "itemName":"Windows PowerShell",
+    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\ae6d1e5296cd41df785716fce60512178ae9ab3e6203938ee1c97fad75d011ae.ico"
   },
-  "92e689278a34c74376560a5c9e3029acc0e4e10a1cb1245440e340681ded6d22":{
-    "itemName":"Adobe Acrobat Distiller DC",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Adobe Acrobat Distiller DC.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\92e689278a34c74376560a5c9e3029acc0e4e10a1cb1245440e340681ded6d22.ico"
-  },
-  "5be17013d27a038d1919deb8e514e0cec547164fe0ba92f4206a725211fc4fb3":{
-    "itemName":"Character Map",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\System Tools\\Character Map.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\5be17013d27a038d1919deb8e514e0cec547164fe0ba92f4206a725211fc4fb3.ico"
-  },
-  "94f5cb7dad82a72801c867b6b8ce92fc84c44282d030e686168fc52b8c0a584a":{
-    "itemName":"Discord",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Discord Inc\\Discord.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\94f5cb7dad82a72801c867b6b8ce92fc84c44282d030e686168fc52b8c0a584a.ico"
-  },
-  "8d34dd8f08d0676855ed2ac19b41613986d5bcc5c840b2525fa1d770d12ca6df":{
-    "itemName":"Rainmeter",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Rainmeter.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\8d34dd8f08d0676855ed2ac19b41613986d5bcc5c840b2525fa1d770d12ca6df.ico"
-  },
-  "4b7adb899debf3130fbefd16f9e299e0cc4013ad8a4a86fd1050a6839ca3382d":{
-    "itemName":"Apple Software Update",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Apple Software Update.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\4b7adb899debf3130fbefd16f9e299e0cc4013ad8a4a86fd1050a6839ca3382d.ico"
+  "9601f4739c86b4162adc18aa4e7d5019f62a43755f76306ec7cfbef84f74e7a3":{
+    "itemName":"Magnify",
+    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Magnify.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\9601f4739c86b4162adc18aa4e7d5019f62a43755f76306ec7cfbef84f74e7a3.ico"
   },
   "89cff87bff68c01c1449cedaeb5ca1ddcf6a6617e1c9be9446495ad5ebc02237":{
     "itemName":"Skype for Business",
     "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Skype for Business.lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\89cff87bff68c01c1449cedaeb5ca1ddcf6a6617e1c9be9446495ad5ebc02237.ico"
   },
-  "168c5311955e336197d3f9841ded1912959c4a0307ab610ff07a6f07b2d8f8e3":{
-    "itemName":"services",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\services.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\168c5311955e336197d3f9841ded1912959c4a0307ab610ff07a6f07b2d8f8e3.ico"
+  "0b8e91706e37e2fb2d05f179eef9b983151d9ef719c0862876be944e06cc29a5":{
+    "itemName":"WinDirStat",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinDirStat\\WinDirStat.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\0b8e91706e37e2fb2d05f179eef9b983151d9ef719c0862876be944e06cc29a5.ico"
   },
   "79ae97a7b46ec12dcad9b2946b985a3daee826bacbd1c323bdbfbd56bd8f225f":{
     "itemName":"Registry Editor",
     "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Registry Editor.lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\79ae97a7b46ec12dcad9b2946b985a3daee826bacbd1c323bdbfbd56bd8f225f.ico"
   },
-  "3b9efb7afdc9bda30b9bb124efae50278fc04e45f596dd6f2f723fa248b91246":{
-    "itemName":"Access",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Access.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\3b9efb7afdc9bda30b9bb124efae50278fc04e45f596dd6f2f723fa248b91246.ico"
-  },
-  "4f655f5f65e0bde3b10ce18772e7d544b874a528b215b817d8743546faced4d1":{
-    "itemName":"About Java",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\About Java.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\4f655f5f65e0bde3b10ce18772e7d544b874a528b215b817d8743546faced4d1.ico"
-  },
-  "eea0b294f805afa2c07cdeb676cee3f75beafdbd7ce7d88f3793fca7e024a762":{
-    "itemName":"WinRAR",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\WinRAR.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\eea0b294f805afa2c07cdeb676cee3f75beafdbd7ce7d88f3793fca7e024a762.ico"
-  },
   "fa3bcd39525c3990654040b58c9cb2957c41e93fbb90ea79f6c9426c418bf4e1":{
     "itemName":"Task Scheduler",
     "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Task Scheduler.lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\fa3bcd39525c3990654040b58c9cb2957c41e93fbb90ea79f6c9426c418bf4e1.ico"
   },
-  "04383dada0802a2b42fc14023a8c6bd966062d6dcfbbc44b174692b5d8a842a6":{
-    "itemName":"Lightshot",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Lightshot\\Lightshot.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\04383dada0802a2b42fc14023a8c6bd966062d6dcfbbc44b174692b5d8a842a6.ico"
-  },
-  "1d5932effb22ede1356d1f200b39a3bba239d9d229f1154912813b6160e20be1":{
-    "itemName":"Performance Monitor",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Performance Monitor.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\1d5932effb22ede1356d1f200b39a3bba239d9d229f1154912813b6160e20be1.ico"
-  },
-  "1f95f955dd6dba46aa99effc3ef57a1b201e47f8a761c8e263f227b125678f9c":{
-    "itemName":"Configure Java",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\Configure Java.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\1f95f955dd6dba46aa99effc3ef57a1b201e47f8a761c8e263f227b125678f9c.ico"
-  },
-  "6321a97af61a36997dbdaabdd80eb3b38c2745ab868cd009cbff544fd4aa70c7":{
-    "itemName":"Database Compare",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Database Compare.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\6321a97af61a36997dbdaabdd80eb3b38c2745ab868cd009cbff544fd4aa70c7.ico"
-  },
-  "b1e8e4886de3b349fbe5e2c75113199cbc4ceb50d244d285ef318b2faced2b85":{
-    "itemName":"Bitdefender Safepay",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Bitdefender Security\\Bitdefender Safepay.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\b1e8e4886de3b349fbe5e2c75113199cbc4ceb50d244d285ef318b2faced2b85.ico"
-  },
   "dda82c2a372d5864b285f7bb44d0abdd0ec4da0d2e47b768959e37746d80e846":{
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\dda82c2a372d5864b285f7bb44d0abdd0ec4da0d2e47b768959e37746d80e846.ico",
     "itemName":"Notion",
     "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Notion.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\dda82c2a372d5864b285f7bb44d0abdd0ec4da0d2e47b768959e37746d80e846.ico"
-  },
-  "e67268c522efebd7b61e695ec009931eeb00d1bc8d7d064b6115a55e3adfb894":{
-    "itemName":"Git Release Notes",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git Release Notes.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\e67268c522efebd7b61e695ec009931eeb00d1bc8d7d064b6115a55e3adfb894.ico"
-  },
-  "cb6b185f081c347715d7d2410abf501049dbc4369e8e4113aa803f44c9f11aa9":{
-    "itemName":"Spotify",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Spotify.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\cb6b185f081c347715d7d2410abf501049dbc4369e8e4113aa803f44c9f11aa9.ico"
+    "scoutHits":1
   },
   "170eee4214f1ab155c85d4f382f92e60b2c44c784b528003a16d0f16a36ff8da":{
     "itemName":"Event Viewer",
     "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Event Viewer.lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\170eee4214f1ab155c85d4f382f92e60b2c44c784b528003a16d0f16a36ff8da.ico"
   },
-  "9f618c0a2ae3eb87e65e614e4ad61a3610e782ef049334decacbc03a69ea8455":{
-    "itemName":"Spreadsheet Compare",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Spreadsheet Compare.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\9f618c0a2ae3eb87e65e614e4ad61a3610e782ef049334decacbc03a69ea8455.ico"
-  },
-  "b5340f33a9fb3c61be6b3afede281bc341f9c74ef53311da66076fc24050bcbf":{
-    "itemName":"On-Screen Keyboard",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\On-Screen Keyboard.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\b5340f33a9fb3c61be6b3afede281bc341f9c74ef53311da66076fc24050bcbf.ico"
-  },
-  "f2173ce0a01a0c19f63b4152ca81d9ecbee1c6436dba43d7ef4f796c66c3391f":{
-    "itemName":"What is new in the latest version",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\What is new in the latest version.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\f2173ce0a01a0c19f63b4152ca81d9ecbee1c6436dba43d7ef4f796c66c3391f.ico"
+  "cffa83f44c3e0fe36f2c157a2c954fc705f8956f9d8bc41ff76cf0ec01a0ebe9":{
+    "itemName":"RecoveryDrive",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\RecoveryDrive.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\cffa83f44c3e0fe36f2c157a2c954fc705f8956f9d8bc41ff76cf0ec01a0ebe9.ico"
   },
   "a976d7d4743cb4bb6bcfbbc891b6d1c332fc72a9807d6efd6be371e6d5002848":{
     "itemName":"Disk Cleanup",
     "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Disk Cleanup.lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\a976d7d4743cb4bb6bcfbbc891b6d1c332fc72a9807d6efd6be371e6d5002848.ico"
   },
-  "7a9ea5c0e39480ad7465e85e2300f90b4c74fce84065de2b20b50cadf97299ac":{
-    "itemName":"Vortex",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Black Tree Gaming Ltd\\Vortex.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\7a9ea5c0e39480ad7465e85e2300f90b4c74fce84065de2b20b50cadf97299ac.ico"
+  "8aee505440043df1400f82091f4a1ff176ff58c0945a5d4ac59dd5b81daf60ff":{
+    "itemName":"Remote Desktop Connection",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Remote Desktop Connection.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\8aee505440043df1400f82091f4a1ff176ff58c0945a5d4ac59dd5b81daf60ff.ico"
   },
-  "d93498f67121d6eea8b25d03d8a01c9805a405c3c470cde3dd3a61e3541abd31":{
-    "itemName":"Bitdefender",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Bitdefender Security\\Bitdefender.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\d93498f67121d6eea8b25d03d8a01c9805a405c3c470cde3dd3a61e3541abd31.ico"
-  },
-  "bdeb0713e444f1356d9b6e39874db6d747e279f9472c3d1b6008d46ff0df779a":{
-    "itemName":"Blackmagic RAW Speed Test",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Blackmagic Design\\Blackmagic RAW\\Blackmagic RAW Speed Test.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\bdeb0713e444f1356d9b6e39874db6d747e279f9472c3d1b6008d46ff0df779a.ico"
-  },
-  "ded6ba57d82bb5516f652a883c96a5592b691db7d63a2e9b259d1b2e81412902":{
-    "itemName":"Notion",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Notion.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\ded6ba57d82bb5516f652a883c96a5592b691db7d63a2e9b259d1b2e81412902.ico"
-  },
-  "Reminders":{
-    "itemName":"Reminders",
-    "itemIcon":"#SKINSPATH#NXT-OS\\@Resources\\Images\\Icons\\Reminders.png",
-    "itemDescription":"The NXT-OS desktop reminders app.",
-    "itemPath":"[!ActivateConfig \"NXT-OS\\Reminders\" \"Reminders.ini\"]",
-    "itemSource":"NXT-OS System"
+  "8d34dd8f08d0676855ed2ac19b41613986d5bcc5c840b2525fa1d770d12ca6df":{
+    "itemName":"Rainmeter",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Rainmeter.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\8d34dd8f08d0676855ed2ac19b41613986d5bcc5c840b2525fa1d770d12ca6df.ico"
   },
   "a7b31ce4bd69675a19738a3b130e9223f6e2b221b86e45b67a5a3f5eb1cc03dc":{
     "itemName":"Notepad++",
@@ -296,15 +156,10 @@
     "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Quick Assist.lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\2eeb367ce6a59cc8e4a7f4cc21254fd39fa18eee1629ff9f9fec7ad16070f09f.ico"
   },
-  "c93cdeae5cb8ce1837f652195361c0ba6d56127812ced2de7982fce8340c93a6":{
-    "itemName":"Excel",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Excel.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\c93cdeae5cb8ce1837f652195361c0ba6d56127812ced2de7982fce8340c93a6.ico"
-  },
-  "4f0b95a9d01d294b7f4a3341e30b2d6108b5ab7d0194dd62daeaf4c5091b8819":{
-    "itemName":"What is new in the latest version",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\What is new in the latest version.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\4f0b95a9d01d294b7f4a3341e30b2d6108b5ab7d0194dd62daeaf4c5091b8819.ico"
+  "168c5311955e336197d3f9841ded1912959c4a0307ab610ff07a6f07b2d8f8e3":{
+    "itemName":"services",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\services.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\168c5311955e336197d3f9841ded1912959c4a0307ab610ff07a6f07b2d8f8e3.ico"
   },
   "1359d2a27fbc6f1c2dc2b6f065394adccd49c91fb35d550c4d219a60c209a026":{
     "itemName":"Skype for Business Recording Manager",
@@ -316,173 +171,77 @@
     "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Steam.lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\5e4f25c775091792aca89511a17527453914633e39ae1835b54fce0489c791cb.ico"
   },
-  "3a6918132de9f65723fa1e8cbae1c672b99ba2219b99ad329c42ece99e21297f":{
-    "itemName":"Blackmagic RAW Player",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Blackmagic Design\\Blackmagic RAW\\Blackmagic RAW Player.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\3a6918132de9f65723fa1e8cbae1c672b99ba2219b99ad329c42ece99e21297f.ico"
+  "7e1555aaca8c32232d1b41ae9a0a41f2f0479e5c0e9ef7073dfbf0b24ac113f2":{
+    "itemName":"Speech Recognition",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Speech Recognition.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\7e1555aaca8c32232d1b41ae9a0a41f2f0479e5c0e9ef7073dfbf0b24ac113f2.ico"
   },
-  "b7c3c41c501c6d2e30624a2db10f82ba953f696894a9b1222cd0cad6d7426ee2":{
-    "itemName":"DaVinci Control Panels",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Blackmagic Design\\DaVinci Resolve\\DaVinci Control Panels.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\b7c3c41c501c6d2e30624a2db10f82ba953f696894a9b1222cd0cad6d7426ee2.ico"
-  },
-  "ba5a2d32c45e1c56f1414c63c253be308cb377a86a6f3b6e4ce17a8c8247bb00":{
-    "itemName":"Install Additional Tools for Node.js",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js\\Install Additional Tools for Node.js.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\ba5a2d32c45e1c56f1414c63c253be308cb377a86a6f3b6e4ce17a8c8247bb00.ico"
-  },
-  "4f42ebcaffc1218ea43fa0db5cb2226823be85ffed24eae3d2d9b2bd69aa7445":{
-    "itemName":"E-book viewer",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\calibre - E-book Management\\E-book viewer.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\4f42ebcaffc1218ea43fa0db5cb2226823be85ffed24eae3d2d9b2bd69aa7445.ico"
-  },
-  "2cff05caade9547c0490c5113a59d67b3b9262eef7f4ace654a2d18ca0639f33":{
-    "itemName":"Node.js",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js\\Node.js.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\2cff05caade9547c0490c5113a59d67b3b9262eef7f4ace654a2d18ca0639f33.ico"
-  },
-  "931c7daee5e50e8ed28a3eb5a93a78b555ee0e4ac30a7f7bdebe9d6e4c2ef249":{
-    "itemName":"GitHub Desktop",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\GitHub, Inc\\GitHub Desktop.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\931c7daee5e50e8ed28a3eb5a93a78b555ee0e4ac30a7f7bdebe9d6e4c2ef249.ico"
+  "7f824ff452fa3e1a9d61bbdc1b14283dab97918a8930e99e6cc4783fa36c26d7":{
+    "itemName":"Control Panel",
+    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Control Panel.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\7f824ff452fa3e1a9d61bbdc1b14283dab97918a8930e99e6cc4783fa36c26d7.ico"
   },
   "1d5fb79b2bd5cc99a03f80a27f427bfa2264af91db5bbd70db46f605308c6eb7":{
     "itemName":"Steps Recorder",
     "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Steps Recorder.lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\1d5fb79b2bd5cc99a03f80a27f427bfa2264af91db5bbd70db46f605308c6eb7.ico"
   },
-  "646b30b843f606ccf7de186456424011b7adfd0832cbd89f68a3d2c56a7b93ba":{
-    "itemName":"Google Chrome",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Chrome.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\646b30b843f606ccf7de186456424011b7adfd0832cbd89f68a3d2c56a7b93ba.ico"
-  },
   "c973df1af9aa511ba993a58ac16e1b0dd1066897a5c0eec624319ab41a201a6b":{
     "itemName":"Windows PowerShell ISE (x86)",
     "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE (x86).lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\c973df1af9aa511ba993a58ac16e1b0dd1066897a5c0eec624319ab41a201a6b.ico"
   },
-  "41ce668b46646b5878aef7a01e08240ba283a3d6e6a5844b1f4dffa9088b4705":{
-    "itemName":"Office Language Preferences",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Office Language Preferences.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\41ce668b46646b5878aef7a01e08240ba283a3d6e6a5844b1f4dffa9088b4705.ico"
+  "3b6116576edbdf74284650ca2a68945574c0681af304aad6ef14927a381a3b90":{
+    "itemName":"Task Manager",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Task Manager.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\3b6116576edbdf74284650ca2a68945574c0681af304aad6ef14927a381a3b90.ico"
   },
-  "d3b010abedd71eb276a8997fbe487e2f613906cf7ccdac60d32218266c8f7376":{
-    "itemName":"Creator Center",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MSI\\Creator Center\\Creator Center.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\d3b010abedd71eb276a8997fbe487e2f613906cf7ccdac60d32218266c8f7376.ico"
-  },
-  "Settings":{
-    "itemName":"Settings",
-    "itemIcon":"#SKINSPATH#NXT-OS\\@Resources\\Images\\Icons\\Settings.png",
-    "itemSource":"NXT-OS System",
-    "itemDescription":"The NXT-OS settings menu.",
-    "itemPath":"[!ActivateConfig \"NXT-OS\\Settings\" \"Settings.ini\"]",
-    "scoutHits":2
-  },
-  "f3118b8dc4e08a5e918bb76ac75a7f3f738841c042298ca69a4f5650ed519b61":{
-    "itemName":"Memory Diagnostics Tool",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Memory Diagnostics Tool.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\f3118b8dc4e08a5e918bb76ac75a7f3f738841c042298ca69a4f5650ed519b61.ico"
-  },
-  "b0377ea8f88a5d6a778097668a0357832035ddef6fce9d01324b4c4a3224d6f7":{
-    "itemName":"WinRAR help",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\WinRAR help.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\b0377ea8f88a5d6a778097668a0357832035ddef6fce9d01324b4c4a3224d6f7.ico"
+  "bc26731f46c5b59d8cacc2bb4b5f3b7c114f11753c4136e2756cb5e23a40b483":{
+    "itemName":"Windows Media Player",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows Media Player.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\bc26731f46c5b59d8cacc2bb4b5f3b7c114f11753c4136e2756cb5e23a40b483.ico"
   },
   "1f1c0796b1b2e8410a18d3750c13ff661e0b514c21e4a73795bfb64d8780decd":{
     "itemName":"iSCSI Initiator",
     "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\iSCSI Initiator.lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\1f1c0796b1b2e8410a18d3750c13ff661e0b514c21e4a73795bfb64d8780decd.ico"
   },
-  "54cdcb164e99f929741beba93bc1255fc8c4a059c121c6fd902aaa3b11cc0d16":{
-    "itemName":"Telemetry Log for Office",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Telemetry Log for Office.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\54cdcb164e99f929741beba93bc1255fc8c4a059c121c6fd902aaa3b11cc0d16.ico"
+  "41ce668b46646b5878aef7a01e08240ba283a3d6e6a5844b1f4dffa9088b4705":{
+    "itemName":"Office Language Preferences",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Office Language Preferences.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\41ce668b46646b5878aef7a01e08240ba283a3d6e6a5844b1f4dffa9088b4705.ico"
   },
-  "ec88deab6ce435806e9903818d0a707acd7871af96f6f9d345b7038b3afe2963":{
-    "itemName":"Check For Updates",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\Check For Updates.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\ec88deab6ce435806e9903818d0a707acd7871af96f6f9d345b7038b3afe2963.ico"
-  },
-  "adcb63ef1c71bf08f74856348b0bbe935d436f833364f712be2d4bd19e80e300":{
-    "itemName":"Windows Defender Firewall with Advanced Security",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Windows Defender Firewall with Advanced Security.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\adcb63ef1c71bf08f74856348b0bbe935d436f833364f712be2d4bd19e80e300.ico"
-  },
-  "bdba130141df589e6cc475057999dbe991d29dbfc492202d05f73f329218a0c3":{
-    "itemName":"Telemetry Dashboard for Office",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Telemetry Dashboard for Office.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\bdba130141df589e6cc475057999dbe991d29dbfc492202d05f73f329218a0c3.ico"
-  },
-  "80396573bdadfa0f9fa1c469c1a259c8575c3688e4101c98c61924bf3615d3e3":{
-    "itemName":"Windows Fax and Scan",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows Fax and Scan.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\80396573bdadfa0f9fa1c469c1a259c8575c3688e4101c98c61924bf3615d3e3.ico"
-  },
-  "82855fbfb64f9e562f517c83dc7bcfd0b8296db7ef5b722cb6e63587507a1091":{
-    "itemName":"Kindle",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Amazon\\Amazon Kindle\\Kindle.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\82855fbfb64f9e562f517c83dc7bcfd0b8296db7ef5b722cb6e63587507a1091.ico"
-  },
-  "6c4324c1fd77a709de29028974526f4ad44621be228be92f7800ac24d0fe9358":{
-    "itemName":"Administrative Tools",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\6c4324c1fd77a709de29028974526f4ad44621be228be92f7800ac24d0fe9358.ico"
+  "60e660bf7231ba99789e91469a04f66fc4e1b25bee2a744329453023b92f0aed":{
+    "itemName":"Wordpad",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Wordpad.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\60e660bf7231ba99789e91469a04f66fc4e1b25bee2a744329453023b92f0aed.ico"
   },
   "833e2e5da57e4097d90940bef1dcbb7800e3f9ca4e53762a3ec8eac7a333b9c0":{
     "itemName":"Run",
     "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Run.lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\833e2e5da57e4097d90940bef1dcbb7800e3f9ca4e53762a3ec8eac7a333b9c0.ico"
   },
-  "c07e63d35f13e1c32611211886ac8c06c138353f4546921c678846402532d05e":{
-    "itemName":"WinRAR help",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\WinRAR help.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\c07e63d35f13e1c32611211886ac8c06c138353f4546921c678846402532d05e.ico"
-  },
-  "fafc1980b66fbfc856ce1442619a4cb1c7b9bcf8638bc558daac0213332dced3":{
-    "itemName":"DaVinci Resolve",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Blackmagic Design\\DaVinci Resolve\\DaVinci Resolve.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\fafc1980b66fbfc856ce1442619a4cb1c7b9bcf8638bc558daac0213332dced3.ico"
-  },
-  "376089a016658ab1ebbc6f6d5ce1b750d00e94149cd19941811c99020ba68508":{
-    "itemName":"Git CMD",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git CMD.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\376089a016658ab1ebbc6f6d5ce1b750d00e94149cd19941811c99020ba68508.ico"
-  },
-  "7b3ff8531022ebbc39706fc3249fbee6a53eda6d4aba8a24e52f3041dc9b176a":{
-    "itemName":"LRF viewer",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\calibre - E-book Management\\LRF viewer.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\7b3ff8531022ebbc39706fc3249fbee6a53eda6d4aba8a24e52f3041dc9b176a.ico"
-  },
-  "c37cf1f417a4a94fef8e555fc71fe1a90c00dfb0876c5faba9d18be61a8c7802":{
-    "itemName":"Microsoft Teams",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Teams.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\c37cf1f417a4a94fef8e555fc71fe1a90c00dfb0876c5faba9d18be61a8c7802.ico"
-  },
-  "20c023e48c36b9b7521d92cd98f206efa0ebc56c88a90efa1b67d16a69dc8098":{
-    "itemName":"About iTunes",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\iTunes\\About iTunes.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\20c023e48c36b9b7521d92cd98f206efa0ebc56c88a90efa1b67d16a69dc8098.ico"
-  },
-  "8f185cbde67d6dbd44ae26dda7edf9d229380f53b90eac53733a9ec9e0b06f9e":{
-    "itemName":"Git GUI",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git GUI.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\8f185cbde67d6dbd44ae26dda7edf9d229380f53b90eac53733a9ec9e0b06f9e.ico"
+  "04383dada0802a2b42fc14023a8c6bd966062d6dcfbbc44b174692b5d8a842a6":{
+    "itemName":"Lightshot",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Lightshot\\Lightshot.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\04383dada0802a2b42fc14023a8c6bd966062d6dcfbbc44b174692b5d8a842a6.ico"
   },
   "d7dada70059af53a1548f24537903120804a1342b698c5ecad84fdcff444c066":{
     "itemName":"OneNote",
     "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OneNote.lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\d7dada70059af53a1548f24537903120804a1342b698c5ecad84fdcff444c066.ico"
   },
-  "ed9e72e6c5876cea9b0689ab6f6a0211df7fcd083bbf21f3e1897964e564c759":{
-    "itemName":"WinRAR",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\WinRAR.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\ed9e72e6c5876cea9b0689ab6f6a0211df7fcd083bbf21f3e1897964e564c759.ico"
+  "Reminders":{
+    "itemName":"Reminders",
+    "itemIcon":"#SKINSPATH#NXT-OS\\@Resources\\Images\\Icons\\Reminders.png",
+    "itemDescription":"The NXT-OS desktop reminders app.",
+    "itemPath":"[!ActivateConfig \"NXT-OS\\Reminders\" \"Reminders.ini\"]",
+    "itemSource":"NXT-OS System"
   },
-  "60e660bf7231ba99789e91469a04f66fc4e1b25bee2a744329453023b92f0aed":{
-    "itemName":"Wordpad",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Wordpad.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\60e660bf7231ba99789e91469a04f66fc4e1b25bee2a744329453023b92f0aed.ico"
+  "bdba130141df589e6cc475057999dbe991d29dbfc492202d05f73f329218a0c3":{
+    "itemName":"Telemetry Dashboard for Office",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Telemetry Dashboard for Office.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\bdba130141df589e6cc475057999dbe991d29dbfc492202d05f73f329218a0c3.ico"
   },
   "4df99e81af7dce9d7233e7ba50949599d281f0fc2d693beddd5a24f64abd96a5":{
     "itemName":"Computer Management",
@@ -497,55 +256,56 @@
     "itemPath":"[!ActivateConfig \"NXT-OS\\WelcomeCenter\" \"Welcome.ini\"]",
     "scoutHits":1
   },
-  "698a998aacaa04923be3fbbe3e71f54cc3d1d47602f11a07946e19867572d9ff":{
-    "itemName":"monday",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\monday.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\698a998aacaa04923be3fbbe3e71f54cc3d1d47602f11a07946e19867572d9ff.ico"
+  "54cdcb164e99f929741beba93bc1255fc8c4a059c121c6fd902aaa3b11cc0d16":{
+    "itemName":"Telemetry Log for Office",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Telemetry Log for Office.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\54cdcb164e99f929741beba93bc1255fc8c4a059c121c6fd902aaa3b11cc0d16.ico"
   },
-  "290a0de2c796690f05920d883dde8c5bd8a8c0e735127663e78b51c0098e1c50":{
-    "itemName":"balenaEtcher",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\balenaEtcher.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\290a0de2c796690f05920d883dde8c5bd8a8c0e735127663e78b51c0098e1c50.ico"
+  "ef9deeae6cdedf1eb7603dac06c8fb946d6d29e8d50acd9528eed402b4a58b8b":{
+    "itemName":"7-Zip Help",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\7-Zip\\7-Zip Help.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\ef9deeae6cdedf1eb7603dac06c8fb946d6d29e8d50acd9528eed402b4a58b8b.ico"
   },
-  "a31eeca76e2802ba1e15cd80dbd10c36d1658ad9ce6a8368d4056553547bffd5":{
-    "itemName":"Edit E-book",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\calibre - E-book Management\\Edit E-book.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\a31eeca76e2802ba1e15cd80dbd10c36d1658ad9ce6a8368d4056553547bffd5.ico"
+  "0ce6327bbd47b8da992215d68069b4f72bafe9c706c5ff4c2522ba745b545462":{
+    "itemName":"ODBC Data Sources (32-bit)",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\ODBC Data Sources (32-bit).lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\0ce6327bbd47b8da992215d68069b4f72bafe9c706c5ff4c2522ba745b545462.ico"
   },
   "0b6aa112860a962515c5b39661630eeef943522cc8c050050c50725f9e452426":{
     "itemName":"Narrator",
     "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Narrator.lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\0b6aa112860a962515c5b39661630eeef943522cc8c050050c50725f9e452426.ico"
   },
-  "7f824ff452fa3e1a9d61bbdc1b14283dab97918a8930e99e6cc4783fa36c26d7":{
-    "itemName":"Control Panel",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Control Panel.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\7f824ff452fa3e1a9d61bbdc1b14283dab97918a8930e99e6cc4783fa36c26d7.ico"
+  "5be17013d27a038d1919deb8e514e0cec547164fe0ba92f4206a725211fc4fb3":{
+    "itemName":"Character Map",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\System Tools\\Character Map.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\5be17013d27a038d1919deb8e514e0cec547164fe0ba92f4206a725211fc4fb3.ico"
   },
   "073683bcb2752ff7784f7aad6c2caeea7660921e5c1e641fc39647b23392dfcf":{
     "itemName":"System Configuration",
     "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\System Configuration.lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\073683bcb2752ff7784f7aad6c2caeea7660921e5c1e641fc39647b23392dfcf.ico"
   },
-  "bc26731f46c5b59d8cacc2bb4b5f3b7c114f11753c4136e2756cb5e23a40b483":{
-    "itemName":"Windows Media Player",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows Media Player.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\bc26731f46c5b59d8cacc2bb4b5f3b7c114f11753c4136e2756cb5e23a40b483.ico"
+  "80396573bdadfa0f9fa1c469c1a259c8575c3688e4101c98c61924bf3615d3e3":{
+    "itemName":"Windows Fax and Scan",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows Fax and Scan.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\80396573bdadfa0f9fa1c469c1a259c8575c3688e4101c98c61924bf3615d3e3.ico"
   },
-  "a0c9930375abbc33fad08e10dc149aa1e2e0ee131cd7c8e43359fdfe58e7212e":{
-    "itemName":"Rainmeter",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Rainmeter.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\a0c9930375abbc33fad08e10dc149aa1e2e0ee131cd7c8e43359fdfe58e7212e.ico"
-  },
-  "3b6116576edbdf74284650ca2a68945574c0681af304aad6ef14927a381a3b90":{
-    "itemName":"Task Manager",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Task Manager.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\3b6116576edbdf74284650ca2a68945574c0681af304aad6ef14927a381a3b90.ico"
+  "646b30b843f606ccf7de186456424011b7adfd0832cbd89f68a3d2c56a7b93ba":{
+    "itemName":"Google Chrome",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Chrome.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\646b30b843f606ccf7de186456424011b7adfd0832cbd89f68a3d2c56a7b93ba.ico"
   },
   "10050f9d93b65395416826e9fe1ed3458cd9a4b4a7261290937371c1564d8c79":{
     "itemName":"OneDrive",
     "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OneDrive.lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\10050f9d93b65395416826e9fe1ed3458cd9a4b4a7261290937371c1564d8c79.ico"
+  },
+  "cb6b185f081c347715d7d2410abf501049dbc4369e8e4113aa803f44c9f11aa9":{
+    "scoutHits":1,
+    "itemName":"Spotify",
+    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Spotify.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\cb6b185f081c347715d7d2410abf501049dbc4369e8e4113aa803f44c9f11aa9.ico"
   },
   "Calculator":{
     "itemName":"Calculator",
@@ -554,65 +314,68 @@
     "itemPath":"[!ActivateConfig \"NXT-OS\\Calculator\" \"Calculator.ini\"]",
     "itemSource":"NXT-OS System"
   },
-  "7a8230b15b86e40fcb212b9561846cfecbba3a3ede97eeef892dac2588f5efe9":{
-    "itemName":"Uplay",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Ubisoft\\Uplay\\Uplay.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\7a8230b15b86e40fcb212b9561846cfecbba3a3ede97eeef892dac2588f5efe9.ico"
+  "b5340f33a9fb3c61be6b3afede281bc341f9c74ef53311da66076fc24050bcbf":{
+    "itemName":"On-Screen Keyboard",
+    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\On-Screen Keyboard.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\b5340f33a9fb3c61be6b3afede281bc341f9c74ef53311da66076fc24050bcbf.ico"
   },
-  "a9e15a6b9bbcf315f52795a62523eb03e558449fe35d3419b7c03abd1126ecb1":{
-    "itemName":"Node.js command prompt",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js\\Node.js command prompt.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\a9e15a6b9bbcf315f52795a62523eb03e558449fe35d3419b7c03abd1126ecb1.ico"
+  "adcb63ef1c71bf08f74856348b0bbe935d436f833364f712be2d4bd19e80e300":{
+    "itemName":"Windows Defender Firewall with Advanced Security",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Windows Defender Firewall with Advanced Security.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\adcb63ef1c71bf08f74856348b0bbe935d436f833364f712be2d4bd19e80e300.ico"
   },
   "e1af6d56d1a243187cd3bf999922b0aea73929815387d0672c68a04eb03c712e":{
     "itemName":"Windows PowerShell (x86)",
     "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell (x86).lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\e1af6d56d1a243187cd3bf999922b0aea73929815387d0672c68a04eb03c712e.ico"
   },
-  "978cb043bae8de52476524006da1c60c860cfd11c818921355ff854af9354a52":{
-    "itemName":"Authy Desktop",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Authy Desktop.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\978cb043bae8de52476524006da1c60c860cfd11c818921355ff854af9354a52.ico"
+  "5a70f96693a35b3e1721eb310d106453d501b66d8d558af8d5df195eb3617e9f":{
+    "itemName":"Steam",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Steam.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\5a70f96693a35b3e1721eb310d106453d501b66d8d558af8d5df195eb3617e9f.ico"
   },
-  "1ab4af04fabb8d79fbf02146a4145839df415a4529a154c073c7b3045a190ed2":{
-    "itemName":"Minecraft Launcher",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Minecraft Launcher\\Minecraft Launcher.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\1ab4af04fabb8d79fbf02146a4145839df415a4529a154c073c7b3045a190ed2.ico"
+  "9f618c0a2ae3eb87e65e614e4ad61a3610e782ef049334decacbc03a69ea8455":{
+    "itemName":"Spreadsheet Compare",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Spreadsheet Compare.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\9f618c0a2ae3eb87e65e614e4ad61a3610e782ef049334decacbc03a69ea8455.ico"
   },
-  "2ad9cd5de53a9ec238c7ca48d4d477dd8201bbf58f9c9042f7cc9f545fc14ffb":{
-    "itemName":"Pinball",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Games\\Pinball.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\2ad9cd5de53a9ec238c7ca48d4d477dd8201bbf58f9c9042f7cc9f545fc14ffb.ico"
+  "89a39467c13e62945e2c829f85f35f97d9021d027423b39507ba8a9f25743bea":{
+    "itemName":"GeForce Experience",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\NVIDIA Corporation\\GeForce Experience.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\89a39467c13e62945e2c829f85f35f97d9021d027423b39507ba8a9f25743bea.ico"
   },
-  "13b8112bf4c7318462ccc993e270780a0f01bfaaa54f40961da066fbe516960c":{
-    "itemName":"Adobe Acrobat DC",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Adobe Acrobat DC.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\13b8112bf4c7318462ccc993e270780a0f01bfaaa54f40961da066fbe516960c.ico"
+  "1d5932effb22ede1356d1f200b39a3bba239d9d229f1154912813b6160e20be1":{
+    "itemName":"Performance Monitor",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Performance Monitor.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\1d5932effb22ede1356d1f200b39a3bba239d9d229f1154912813b6160e20be1.ico"
   },
-  "11a1962467c68cf72cfa07fececace07c248ee9fe012a29e094567460e20b938":{
-    "itemName":"Windows PowerShell ISE",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\11a1962467c68cf72cfa07fececace07c248ee9fe012a29e094567460e20b938.ico"
+  "6321a97af61a36997dbdaabdd80eb3b38c2745ab868cd009cbff544fd4aa70c7":{
+    "itemName":"Database Compare",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Database Compare.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\6321a97af61a36997dbdaabdd80eb3b38c2745ab868cd009cbff544fd4aa70c7.ico"
   },
-  "62152619240f70a8f9d4048ed53a2a773580fdc98fc63ee7b3731b4eafaeb3be":{
-    "itemName":"Play The Elder Scrolls Online",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\The Elder Scrolls Online\\Play The Elder Scrolls Online.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\62152619240f70a8f9d4048ed53a2a773580fdc98fc63ee7b3731b4eafaeb3be.ico"
+  "f3118b8dc4e08a5e918bb76ac75a7f3f738841c042298ca69a4f5650ed519b61":{
+    "itemName":"Memory Diagnostics Tool",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Memory Diagnostics Tool.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\f3118b8dc4e08a5e918bb76ac75a7f3f738841c042298ca69a4f5650ed519b61.ico"
   },
-  "ae6d1e5296cd41df785716fce60512178ae9ab3e6203938ee1c97fad75d011ae":{
-    "itemName":"Windows PowerShell",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\ae6d1e5296cd41df785716fce60512178ae9ab3e6203938ee1c97fad75d011ae.ico"
+  "c93cdeae5cb8ce1837f652195361c0ba6d56127812ced2de7982fce8340c93a6":{
+    "itemName":"Excel",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Excel.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\c93cdeae5cb8ce1837f652195361c0ba6d56127812ced2de7982fce8340c93a6.ico"
   },
-  "7e1555aaca8c32232d1b41ae9a0a41f2f0479e5c0e9ef7073dfbf0b24ac113f2":{
-    "itemName":"Speech Recognition",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Speech Recognition.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\7e1555aaca8c32232d1b41ae9a0a41f2f0479e5c0e9ef7073dfbf0b24ac113f2.ico"
+  "Settings":{
+    "itemName":"Settings",
+    "itemIcon":"#SKINSPATH#NXT-OS\\@Resources\\Images\\Icons\\Settings.png",
+    "itemSource":"NXT-OS System",
+    "itemDescription":"The NXT-OS settings menu.",
+    "itemPath":"[!ActivateConfig \"NXT-OS\\Settings\" \"Settings.ini\"]",
+    "scoutHits":4
   },
-  "9601f4739c86b4162adc18aa4e7d5019f62a43755f76306ec7cfbef84f74e7a3":{
-    "itemName":"Magnify",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Magnify.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\9601f4739c86b4162adc18aa4e7d5019f62a43755f76306ec7cfbef84f74e7a3.ico"
+  "a3ef34680ce3894b0caf8362f88d05cb660715af197d0f129704f9dc3fbff5b9":{
+    "itemName":"Help (ENG)",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinDirStat\\Help (ENG).lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\a3ef34680ce3894b0caf8362f88d05cb660715af197d0f129704f9dc3fbff5b9.ico"
   },
   "00aba4af2a74ef32e711522ab2efe21ce3af648279340f166c800f8ef76ae200":{
     "itemName":"Component Services",
@@ -626,29 +389,29 @@
     "itemPath":"[!ActivateConfig \"NXT-OS\\Info\" \"Info.ini\"]",
     "itemSource":"NXT-OS System"
   },
-  "a6dd7a83f7b63cebf584883544a2b59083e40eab56c42b472b81701b6d8d0e20":{
-    "itemName":"Outlook",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Outlook.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\a6dd7a83f7b63cebf584883544a2b59083e40eab56c42b472b81701b6d8d0e20.ico"
+  "b7f25f606175d02f8c06d99b21fb5e7872ce1687f5a4fc670b01f0d6859343ec":{
+    "itemName":"7-Zip File Manager",
+    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\7-Zip\\7-Zip File Manager.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\b7f25f606175d02f8c06d99b21fb5e7872ce1687f5a4fc670b01f0d6859343ec.ico"
   },
-  "5a70f96693a35b3e1721eb310d106453d501b66d8d558af8d5df195eb3617e9f":{
-    "itemName":"Steam",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Steam.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\5a70f96693a35b3e1721eb310d106453d501b66d8d558af8d5df195eb3617e9f.ico"
+  "94f5cb7dad82a72801c867b6b8ce92fc84c44282d030e686168fc52b8c0a584a":{
+    "itemName":"Discord",
+    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Discord Inc\\Discord.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\94f5cb7dad82a72801c867b6b8ce92fc84c44282d030e686168fc52b8c0a584a.ico"
   },
-  "97f11fe227cfbe1508384d967bad0f22344a7526dc86d8810725885c005d9753":{
-    "itemName":"Nahimic Companion",
-    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Nahimic Companion.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\97f11fe227cfbe1508384d967bad0f22344a7526dc86d8810725885c005d9753.ico"
+  "a0c9930375abbc33fad08e10dc149aa1e2e0ee131cd7c8e43359fdfe58e7212e":{
+    "itemName":"Rainmeter",
+    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\Rainmeter.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\a0c9930375abbc33fad08e10dc149aa1e2e0ee131cd7c8e43359fdfe58e7212e.ico"
   },
   "75bebde1fe6101476152f4fe0cc76191494919a0c0ad3fa795c29b41ac898f78":{
     "itemName":"ODBC Data Sources (64-bit)",
     "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\ODBC Data Sources (64-bit).lnk",
     "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\75bebde1fe6101476152f4fe0cc76191494919a0c0ad3fa795c29b41ac898f78.ico"
   },
-  "cffa83f44c3e0fe36f2c157a2c954fc705f8956f9d8bc41ff76cf0ec01a0ebe9":{
-    "itemName":"RecoveryDrive",
-    "itemPath":"C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\RecoveryDrive.lnk",
-    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\cffa83f44c3e0fe36f2c157a2c954fc705f8956f9d8bc41ff76cf0ec01a0ebe9.ico"
+  "6c4324c1fd77a709de29028974526f4ad44621be228be92f7800ac24d0fe9358":{
+    "itemName":"Administrative Tools",
+    "itemPath":"C:\\Users\\JJame\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools.lnk",
+    "itemIcon":"C:\\Users\\JJame\\Documents\\Rainmeter\\Skins\\NXT-OS Data\\WindowsAppCache\\Icons\\6c4324c1fd77a709de29028974526f4ad44621be228be92f7800ac24d0fe9358.ico"
   }
 }

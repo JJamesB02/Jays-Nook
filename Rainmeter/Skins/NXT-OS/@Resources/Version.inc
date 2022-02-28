@@ -28,5 +28,5 @@
 
 [Variables]
 SYS.Version=3.2.4
-SYS.OldVersion=0
+SYS.OldVersion=3.2.4
 SYS.CodeName=Final Edition

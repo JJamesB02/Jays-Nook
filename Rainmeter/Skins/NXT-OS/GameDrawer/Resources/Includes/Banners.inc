@@ -78,6 +78,50 @@ Zoom6_O_1=[!SetOption "Game6" "W" "298"][!SetOption "Game6" "H" "140"][!SetOptio
 Zoom6_O_2=[!SetOption "Game6" "W" "294"][!SetOption "Game6" "H" "138"][!SetOption "Game6" "Padding" "4,2,4,2"][!UpdateMeter "Game6"][!Redraw]
 Zoom6_O_3=[!SetOption "Game6" "W" "290"][!SetOption "Game6" "H" "136"][!SetOption "Game6" "Padding" "6,3,6,3"][!UpdateMeter "Game6"][!Redraw]
 
+ActionList15=Zoom7_I_0|Zoom7_I_1|Wait 20|Zoom7_I_2|Wait 20|Zoom7_I_3
+ActionList16=Zoom7_O_0|Zoom7_O_1|Wait 20|Zoom7_O_2|Wait 20|Zoom7_O_3
+Zoom7_I_0=[!CommandMeasure TileAnimation "Stop 16"]
+Zoom7_I_1=[!SetOption "Game7" "W" "294"][!SetOption "Game7" "H" "138"][!SetOption "Game7" "Padding" "4,2,4,2"][!UpdateMeter "Game7"][!Redraw]
+Zoom7_I_2=[!SetOption "Game7" "W" "298"][!SetOption "Game7" "H" "140"][!SetOption "Game7" "Padding" "2,1,2,1"][!UpdateMeter "Game7"][!Redraw]
+Zoom7_I_3=[!SetOption "Game7" "W" "302"][!SetOption "Game7" "H" "144"][!SetOption "Game7" "Padding" "0,0,0,0"][!UpdateMeter "Game7"][!Redraw]
+Zoom7_O_0=[!CommandMeasure TileAnimation "Stop 15"]
+Zoom7_O_1=[!SetOption "Game7" "W" "298"][!SetOption "Game7" "H" "140"][!SetOption "Game7" "Padding" "2,1,2,1"][!UpdateMeter "Game7"][!Redraw]
+Zoom7_O_2=[!SetOption "Game7" "W" "294"][!SetOption "Game7" "H" "138"][!SetOption "Game7" "Padding" "4,2,4,2"][!UpdateMeter "Game7"][!Redraw]
+Zoom7_O_3=[!SetOption "Game7" "W" "290"][!SetOption "Game7" "H" "136"][!SetOption "Game7" "Padding" "6,3,6,3"][!UpdateMeter "Game7"][!Redraw]
+
+ActionList17=Zoom8_I_0|Zoom8_I_1|Wait 20|Zoom8_I_2|Wait 20|Zoom8_I_3
+ActionList18=Zoom8_O_0|Zoom8_O_1|Wait 20|Zoom8_O_2|Wait 20|Zoom8_O_3
+Zoom8_I_0=[!CommandMeasure TileAnimation "Stop 18"]
+Zoom8_I_1=[!SetOption "Game8" "W" "294"][!SetOption "Game8" "H" "138"][!SetOption "Game8" "Padding" "4,2,4,2"][!UpdateMeter "Game8"][!Redraw]
+Zoom8_I_2=[!SetOption "Game8" "W" "298"][!SetOption "Game8" "H" "140"][!SetOption "Game8" "Padding" "2,1,2,1"][!UpdateMeter "Game8"][!Redraw]
+Zoom8_I_3=[!SetOption "Game8" "W" "302"][!SetOption "Game8" "H" "144"][!SetOption "Game8" "Padding" "0,0,0,0"][!UpdateMeter "Game8"][!Redraw]
+Zoom8_O_0=[!CommandMeasure TileAnimation "Stop 17"]
+Zoom8_O_1=[!SetOption "Game8" "W" "298"][!SetOption "Game8" "H" "140"][!SetOption "Game8" "Padding" "2,1,2,1"][!UpdateMeter "Game8"][!Redraw]
+Zoom8_O_2=[!SetOption "Game8" "W" "294"][!SetOption "Game8" "H" "138"][!SetOption "Game8" "Padding" "4,2,4,2"][!UpdateMeter "Game8"][!Redraw]
+Zoom8_O_3=[!SetOption "Game8" "W" "290"][!SetOption "Game8" "H" "136"][!SetOption "Game8" "Padding" "6,3,6,3"][!UpdateMeter "Game8"][!Redraw]
+
+ActionList19=Zoom9_I_0|Zoom9_I_1|Wait 20|Zoom9_I_2|Wait 20|Zoom9_I_3
+ActionList20=Zoom9_O_0|Zoom9_O_1|Wait 20|Zoom9_O_2|Wait 20|Zoom9_O_3
+Zoom9_I_0=[!CommandMeasure TileAnimation "Stop 20"]
+Zoom9_I_1=[!SetOption "Game9" "W" "294"][!SetOption "Game9" "H" "138"][!SetOption "Game9" "Padding" "4,2,4,2"][!UpdateMeter "Game9"][!Redraw]
+Zoom9_I_2=[!SetOption "Game9" "W" "298"][!SetOption "Game9" "H" "140"][!SetOption "Game9" "Padding" "2,1,2,1"][!UpdateMeter "Game9"][!Redraw]
+Zoom9_I_3=[!SetOption "Game9" "W" "302"][!SetOption "Game9" "H" "144"][!SetOption "Game9" "Padding" "0,0,0,0"][!UpdateMeter "Game9"][!Redraw]
+Zoom9_O_0=[!CommandMeasure TileAnimation "Stop 19"]
+Zoom9_O_1=[!SetOption "Game9" "W" "298"][!SetOption "Game9" "H" "140"][!SetOption "Game9" "Padding" "2,1,2,1"][!UpdateMeter "Game9"][!Redraw]
+Zoom9_O_2=[!SetOption "Game9" "W" "294"][!SetOption "Game9" "H" "138"][!SetOption "Game9" "Padding" "4,2,4,2"][!UpdateMeter "Game9"][!Redraw]
+Zoom9_O_3=[!SetOption "Game9" "W" "290"][!SetOption "Game9" "H" "136"][!SetOption "Game9" "Padding" "6,3,6,3"][!UpdateMeter "Game9"][!Redraw]
+
+ActionList21=Zoom10_I_0|Zoom10_I_1|Wait 20|Zoom10_I_2|Wait 20|Zoom10_I_3
+ActionList22=Zoom10_O_0|Zoom10_O_1|Wait 20|Zoom10_O_2|Wait 20|Zoom10_O_3
+Zoom10_I_0=[!CommandMeasure TileAnimation "Stop 22"]
+Zoom10_I_1=[!SetOption "Game10" "W" "294"][!SetOption "Game10" "H" "138"][!SetOption "Game10" "Padding" "4,2,4,2"][!UpdateMeter "Game10"][!Redraw]
+Zoom10_I_2=[!SetOption "Game10" "W" "298"][!SetOption "Game10" "H" "140"][!SetOption "Game10" "Padding" "2,1,2,1"][!UpdateMeter "Game10"][!Redraw]
+Zoom10_I_3=[!SetOption "Game10" "W" "302"][!SetOption "Game10" "H" "144"][!SetOption "Game10" "Padding" "0,0,0,0"][!UpdateMeter "Game10"][!Redraw]
+Zoom10_O_0=[!CommandMeasure TileAnimation "Stop 21"]
+Zoom10_O_1=[!SetOption "Game10" "W" "298"][!SetOption "Game10" "H" "140"][!SetOption "Game10" "Padding" "2,1,2,1"][!UpdateMeter "Game10"][!Redraw]
+Zoom10_O_2=[!SetOption "Game10" "W" "294"][!SetOption "Game10" "H" "138"][!SetOption "Game10" "Padding" "4,2,4,2"][!UpdateMeter "Game10"][!Redraw]
+Zoom10_O_3=[!SetOption "Game10" "W" "290"][!SetOption "Game10" "H" "136"][!SetOption "Game10" "Padding" "6,3,6,3"][!UpdateMeter "Game10"][!Redraw]
+
 [Game1B]
 Meter=Image
 MeterStyle=GameBackStyle
@@ -153,5 +197,57 @@ MeterStyle=GameTextStyle
 Meter=String
 MeterStyle=GameCloseButtonStyle
 [Game6]
+Meter=Image
+MeterStyle=GameBannerStyle
+
+[Game7B]
+Meter=Image
+MeterStyle=GameBackStyle
+[Game7T]
+Meter=String
+MeterStyle=GameTextStyle
+[Game7C]
+Meter=String
+MeterStyle=GameCloseButtonStyle
+[Game7]
+Meter=Image
+MeterStyle=GameBannerStyle
+
+[Game8B]
+Meter=Image
+MeterStyle=GameBackStyle
+[Game8T]
+Meter=String
+MeterStyle=GameTextStyle
+[Game8C]
+Meter=String
+MeterStyle=GameCloseButtonStyle
+[Game8]
+Meter=Image
+MeterStyle=GameBannerStyle
+
+[Game9B]
+Meter=Image
+MeterStyle=GameBackStyle
+[Game9T]
+Meter=String
+MeterStyle=GameTextStyle
+[Game9C]
+Meter=String
+MeterStyle=GameCloseButtonStyle
+[Game9]
+Meter=Image
+MeterStyle=GameBannerStyle
+
+[Game10B]
+Meter=Image
+MeterStyle=GameBackStyle
+[Game10T]
+Meter=String
+MeterStyle=GameTextStyle
+[Game10C]
+Meter=String
+MeterStyle=GameCloseButtonStyle
+[Game10]
 Meter=Image
 MeterStyle=GameBannerStyle

@@ -1,2 +1,2 @@
 [Variables]
-Widgets.Activated=0
+Widgets.Activated=1
