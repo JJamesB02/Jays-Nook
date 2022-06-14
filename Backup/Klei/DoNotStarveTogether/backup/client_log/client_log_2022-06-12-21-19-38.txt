@@ -1,0 +1,316 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 38%
+	Available Physical Memory: 9937m/16218m
+	Available Page File: 9894m/19549m
+	Available Virtual Memory: 134213457m/134217727m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 33m
+	Working Set Size: 33m
+	Quota Peak Page Pool Usage: 251k
+	Quota Page Pool Usage: 249k
+	Quota Peak Non Paged Pool Usage:18k
+	Quota Non Paged Pool Usage: 17k
+	Page File Usage: 6m
+	Peak Page File Usage: 6m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 510124
+[00:00:00]: Current time: Sun Jun 12 21:15:07 2022
+
+[00:00:00]: Don't Starve Together: 510124 WIN32_STEAM
+[00:00:00]: Build Date: 1112
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:01]: Steam AppBuildID: 8868312
+[00:00:01]: ....Done
+[00:00:01]: PersistUserStorage is now APP:Klei//DoNotStarveTogether/154275972/ 
+[00:00:01]: Fixing DPI
+[00:00:01]: ...Done
+[00:00:01]: THREAD - started 'GAClient' (18864)
+[00:00:01]: CurlRequestManager::ClientThread::Main()
+[00:00:01]: Mounting file system databundles/klump.zip successful.
+[00:00:01]: Mounting file system databundles/shaders.zip successful.
+[00:00:01]: Mounting file system databundles/fonts.zip successful.
+[00:00:01]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:01]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:01]: Mounting file system databundles/images.zip successful.
+[00:00:01]: Mounting file system databundles/scripts.zip successful.
+[00:00:01]: Texture Streaming: ENABLED
+[00:00:01]: Texture Streaming: DISABLED
+[00:00:01]: Threaded Renderer: ENABLED
+[00:00:01]: ProfileIndex:2.56
+[00:00:01]: THREAD - started 'SimUpdateThread' (14548)
+[00:00:01]: THREAD - started 'RenderThread' (17960)
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: THREAD - started 'Ping Job Thread' (20340)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin64\dontstarve_steam_x64.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: could not load ping_cache
+[00:00:01]: THREAD - started 'StreamInput' (16480)
+[00:00:01]: Offline user ID: OU_76561198114541700
+[00:00:01]: SteamID: 76561198114541700
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 11 Home
+    version                   10.0.22000
+    platformSpecific          SP 0.0
+    architecture              64-bit
+  CPU                       
+    clockSpeed                2304
+    name                      Intel(R) Core(TM) i7-10510U CPU @ 1.80GHz
+    manufacturer              GenuineIntel
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    megsOfRam                 1024
+    videoModeDescription      1920 x 1080 x 4294967296 colors
+    name                      Intel(R) UHD Graphics
+    driverVersion             30.0.101.1340
+    driverDate                20220203000000.000000-000
+    refreshRate               59
+
+[00:00:01]: THREAD - started 'AsynTextureLoadthread' (3452)
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: THREAD - started 'AsynTextureLoadthread' (17460)
+[00:00:01]: WindowManager::Initialize
+[00:00:01]: CreateWindow: Requesting 1280,720 - 5/6/5 - -1/-1/-1 - 0
+[00:00:01]: CreateEGLContext: 12 configs found
+[00:00:01]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:01]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:01]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:01]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:01]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:01]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:01]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:01]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:01]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:01]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:01]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:01]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:01]: GLInfo
+[00:00:01]: ~~~~~~
+[00:00:01]: GL_VENDOR: Google Inc.
+[00:00:01]: GL_RENDERER: ANGLE (NVIDIA GeForce GTX 1650 with Max-Q Design)
+[00:00:01]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:01]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:01]: OpenGL extensions (19, 19):
+[00:00:01]: GL_ANGLE_depth_texture
+[00:00:01]: GL_ANGLE_framebuffer_blit
+[00:00:01]: GL_ANGLE_framebuffer_multisample
+[00:00:01]: GL_ANGLE_instanced_arrays
+[00:00:01]: GL_ANGLE_pack_reverse_row_order
+[00:00:01]: GL_ANGLE_texture_compression_dxt3
+[00:00:01]: GL_ANGLE_texture_compression_dxt5
+[00:00:01]: GL_ANGLE_texture_usage
+[00:00:01]: GL_ANGLE_translated_shader_source
+[00:00:01]: GL_EXT_read_format_bgra
+[00:00:01]: GL_EXT_robustness
+[00:00:01]: GL_EXT_texture_compression_dxt1
+[00:00:01]: GL_EXT_texture_format_BGRA8888
+[00:00:01]: GL_EXT_texture_storage
+[00:00:01]: GL_OES_get_program_binary
+[00:00:01]: GL_OES_packed_depth_stencil
+[00:00:01]: GL_OES_rgb8_rgba8
+[00:00:01]: GL_OES_standard_derivatives
+[00:00:01]: GL_OES_texture_npot
+[00:00:01]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:01]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:01]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:01]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:01]: GL_MAX_VARYING_VECTORS = 10
+[00:00:01]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:01]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:01]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:01]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:01]: 4 compressed texture formats
+[00:00:01]: texture format 0x83f0
+[00:00:01]: texture format 0x83f1
+[00:00:01]: texture format 0x83f2
+[00:00:01]: texture format 0x83f3
+[00:00:01]: THREAD - started 'WindowsInputManager' (10208)
+[00:00:02]: Renderer initialize: Okay
+[00:00:02]: AnimManager initialize: Okay
+[00:00:02]: Buffers initialize: Okay
+[00:00:02]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:02]: GameSpecific initialize: Okay
+[00:00:02]: cGame::StartPlaying
+[00:00:02]: AppVersion::GetArchitecture() x64
+[00:00:02]: LOADING LUA
+[00:00:02]: DoLuaFile scripts/main.lua
+[00:00:02]: DoLuaFile loading buffer scripts/main.lua
+[00:00:03]:   taskgrouplist:	default	Together	
+[00:00:03]:   taskgrouplist:	classic	Classic	
+[00:00:03]:   taskgrouplist:	cave_default	Underground	
+[00:00:03]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:03]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:03]: Running main.lua
+	
+[00:00:03]: Could not load modindex	
+[00:00:03]: ModIndex: Beginning normal load sequence.
+	
+[00:00:03]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:05]: LOADING LUA SUCCESS
+[00:00:06]: PlayerDeaths could not load morgue	
+[00:00:06]: PlayerHistory could not load player_history	
+[00:00:06]: ServerPreferences could not load server_preferences	
+[00:00:06]: bloom_enabled	true	
+[00:00:06]: EnableShadeRenderer: 	true	
+[00:00:06]: OnFilesLoaded()	
+[00:00:06]: OnUpdatePurchaseStateComplete	
+[00:00:06]: Klump load on boot started.	
+[00:00:06]: Klump files loaded: 	0	
+[00:00:07]: 	Load FE	
+[00:00:09]: 	Load FE: done	
+[00:00:09]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/154275972/client_save/blocklist.txt (Failure)
+[00:00:09]: THREAD - started 'FilesExistAsyncThread' (11096)
+[00:00:09]: FilesExistAsyncThread started (20020 files)...
+[00:00:09]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/154275972/client_save/adminlist.txt (Failure)
+[00:00:09]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/154275972/client_save/whitelist.txt (Failure)
+[00:00:09]: [MOTD] Downloading info from	https://motd.klei.com/motd.json/?game=dst&platform=STEAM&locale=US&lang=english&version=510124	
+[00:00:09]: SimLuaProxy::QueryServer()
+[00:00:09]: Check for write access: TRUE
+[00:00:09]: Check for read access: TRUE
+[00:00:09]: Available disk space for save files: 132300 MB
+[00:00:09]: ModIndex: Load sequence finished successfully.	
+[00:00:09]: Reset() returning
+[00:00:09]: Do AutoLogin	
+[00:00:09]: [Steam] Auth Session Ticket requested...
+[00:00:09]: [Steam] Got Auth Session Ticket
+[00:00:09]: [MOTD] Done Loading.	
+[00:00:09]: [MOTD] Downloading image for box8 from https://klei-motd.klei.com/dst/kleifest/steam/en/cawnival_2022_9296e.tex
+[00:00:10]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box8.tex
+[00:00:10]: [MOTD] Downloading image for box4 from https://klei-motd.klei.com/dst/kleifest/steam/en/cawnival-2022-motd-items_e4877.tex
+[00:00:10]: [200] Account Communication Success (3)
+[00:00:10]: Logging in as KU_nIwUWrmM
+[00:00:10]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box4.tex
+[00:00:10]: [MOTD] Downloading image for box7 from https://klei-motd.klei.com/dst/kleifest/steam/en/witch_anchor_nautical_5009e.tex
+[00:00:10]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box7.tex
+[00:00:10]: [MOTD] Downloading image for box5 from https://klei-motd.klei.com/dst/kleifest/steam/en/roadmap_2022_37fda.tex
+[00:00:11]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box5.tex
+[00:00:11]: [MOTD] Downloading image for box9 from https://klei-motd.klei.com/dst/kleifest/steam/en/Terraria-x-DST-Merch-MOTD_e7d2e.tex
+[00:00:11]: saved APP:Klei//DoNotStarveTogether/154275972/client_save/pricing_cache
+[00:00:11]: There is no active event to get the status of.
+[00:00:11]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box9.tex
+[00:00:11]: [MOTD] Downloading image for box1 from https://klei-motd.klei.com/dst/kleifest/steam/en/discord_776e2.tex
+[00:00:12]: saved APP:Klei//DoNotStarveTogether/154275972/client_save/keyvalue_cookbook_prod
+[00:00:12]: saved APP:Klei//DoNotStarveTogether/154275972/client_save/keyvalue_plantregistry_prod
+[00:00:12]: could not load inventory_cache_prod
+[00:00:12]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box1.tex
+[00:00:12]: saved APP:Klei//DoNotStarveTogether/154275972/client_save/inventory_cache_prod
+[00:00:12]: saved APP:Klei//DoNotStarveTogether/154275972/client_save/inventory_cache_prod_sig
+[00:00:13]: THREAD - started 'cUnpackModThread' (5596)
+[00:00:13]: DelDirectory [../mods/workshop-1750657150] 2: FAILED
+[00:00:13]: cWorkshopMod::UnzipMod ../mods/workshop-1750657150
+[00:00:13]: THREAD - started 'cUnpackModThread' (15700)
+[00:00:13]: DelDirectory [../mods/workshop-1157975551] 2: FAILED
+[00:00:13]: cWorkshopMod::UnzipMod ../mods/workshop-1157975551
+[00:00:13]: THREAD - started 'cUnpackModThread' (8744)
+[00:00:13]: DelDirectory [../mods/workshop-836583293] 2: FAILED
+[00:00:13]: cWorkshopMod::UnzipMod ../mods/workshop-836583293
+[00:00:13]: THREAD - started 'cUnpackModThread' (12092)
+[00:00:13]: DelDirectory [../mods/workshop-825944482] 2: FAILED
+[00:00:13]: cWorkshopMod::UnzipMod ../mods/workshop-825944482
+[00:00:14]: THREAD - started 'cUnpackModThread' (16996)
+[00:00:14]: DelDirectory [../mods/workshop-714735102] 2: FAILED
+[00:00:14]: cWorkshopMod::UnzipMod ../mods/workshop-714735102
+[00:00:14]: THREAD - started 'cUnpackModThread' (17644)
+[00:00:14]: DelDirectory [../mods/workshop-668356705] 2: FAILED
+[00:00:14]: cWorkshopMod::UnzipMod ../mods/workshop-668356705
+[00:00:14]: THREAD - started 'cUnpackModThread' (19300)
+[00:00:14]: DelDirectory [../mods/workshop-345692228] 2: FAILED
+[00:00:14]: cWorkshopMod::UnzipMod ../mods/workshop-345692228
+[00:00:17]: ... FilesExistAsyncThread complete
+[00:00:24]: Getting display mode: Querying display 1 [of 2]
+[00:00:24]: 	\: 1920, 1080, 59
+[00:00:24]: SimLuaProxy::QueryServer()
+[00:00:57]: Getting display mode: Querying display 1 [of 2]
+[00:00:57]: 	\: 1920, 1080, 59
+[00:01:02]: SetDisplayMode
+[00:01:02]: fullscreen==true
+[00:01:02]: WindowManager::SetFullscreen(0, 1920, 1080, 60)
+[00:01:03]: FMOD detected a new audio device and set audio to the current default device.
+[00:01:05]: FMOD detected a new audio device and set audio to the current default device.
+[00:01:08]: Small Textures: DISABLED
+[00:01:08]: EnableShadeRenderer: 	true	
+[00:01:11]: Getting display mode: Querying display 1 [of 2]
+[00:01:11]: 	\: 1920, 1080, 60
+[00:01:12]: SetDisplayMode
+[00:01:12]: fullscreen==true
+[00:01:12]: WindowManager::SetFullscreen(1, 320, 200, 60)
+[00:01:15]: Small Textures: DISABLED
+[00:01:15]: EnableShadeRenderer: 	true	
+[00:01:17]: Getting display mode: Querying display 2 [of 2]
+[00:01:17]: 	\: 320, 200, 60
+[00:01:19]: SetDisplayMode
+[00:01:19]: fullscreen==true
+[00:01:19]: WindowManager::SetFullscreen(0, 1920, 1080, 25)
+[00:01:19]: Failed to set 1920x1080@25Hz fullscreen on display 0
+[00:01:20]: Small Textures: DISABLED
+[00:01:20]: EnableShadeRenderer: 	true	
+[00:01:28]: Getting display mode: Querying display 1 [of 2]
+[00:01:28]: 	\: 1920, 1080, 60
+[00:01:32]: Getting display mode: Querying display 1 [of 2]
+[00:01:32]: 	\: 1920, 1080, 60
+[00:01:45]: Getting display mode: Querying display 1 [of 2]
+[00:01:45]: 	\: 1920, 1080, 60
+[00:01:47]: SetDisplayMode
+[00:01:47]: fullscreen==true
+[00:01:47]: WindowManager::SetFullscreen(1, 320, 200, 60)
+[00:01:49]: Small Textures: DISABLED
+[00:01:49]: EnableShadeRenderer: 	true	
+[00:01:51]: Getting display mode: Querying display 2 [of 2]
+[00:01:51]: 	\: 320, 200, 60
+[00:01:53]: SetDisplayMode
+[00:01:53]: fullscreen==true
+[00:01:53]: WindowManager::SetFullscreen(0, 1920, 1080, 25)
+[00:01:53]: Failed to set 1920x1080@25Hz fullscreen on display 0
+[00:01:55]: Small Textures: DISABLED
+[00:01:55]: EnableShadeRenderer: 	true	
+[00:02:03]: Small Textures: ENABLED
+[00:02:03]: EnableShadeRenderer: 	true	
+[00:02:05]: Getting top mod details...
+[00:02:06]: ../mods/workshop-1583765151/images/modicon.tex is 200x200 but compressed textures must have power of 2 dimensions.
+[00:02:06]: ../mods/workshop-668356705/Coordinate.tex is 120x104 but compressed textures must have power of 2 dimensions.
+[00:02:06]: ../mods/workshop-1583765151/images/modicon.tex is 200x200 but compressed textures must have power of 2 dimensions.
+[00:02:06]: ../mods/workshop-668356705/Coordinate.tex is 120x104 but compressed textures must have power of 2 dimensions.
+[00:02:06]: GOT top mod details...50
+[00:02:07]: Frontend-Unloading mod 'all'.	
+[00:02:08]: Getting display mode: Querying display 2 [of 2]
+[00:02:08]: 	\: 320, 200, 60
+[00:02:08]: SimLuaProxy::QueryServer()
+[00:02:08]: Getting display mode: Querying display 2 [of 2]
+[00:02:08]: 	\: 320, 200, 60
+[00:02:22]: Getting top mod details...
+[00:02:22]: GOT top mod details...50
+[00:02:22]: ../mods/workshop-1583765151/images/modicon.tex is 200x200 but compressed textures must have power of 2 dimensions.
+[00:02:22]: ../mods/workshop-668356705/Coordinate.tex is 120x104 but compressed textures must have power of 2 dimensions.
+[00:02:22]: ../mods/workshop-1583765151/images/modicon.tex is 200x200 but compressed textures must have power of 2 dimensions.
+[00:02:22]: ../mods/workshop-668356705/Coordinate.tex is 120x104 but compressed textures must have power of 2 dimensions.
+[00:02:24]: Frontend-Unloading mod 'all'.	
+[00:03:35]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:03:35]: Collecting garbage...
+[00:03:35]: lua_gc took 0.04 seconds
+[00:03:35]: ~ShardLuaProxy()
+[00:03:35]: ~cEventLeaderboardProxy()
+[00:03:35]: ~ItemServerLuaProxy()
+[00:03:35]: ~InventoryLuaProxy()
+[00:03:35]: ~NetworkLuaProxy()
+[00:03:35]: ~SimLuaProxy()
+[00:03:35]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:03:35]: lua_close took 0.05 seconds
+[00:03:35]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:03:35]: [Steam] Auth ticket cancelled
+[00:03:35]: CurlRequestManager::ClientThread::Main() complete
+[00:03:35]: HttpClient2 discarded 0 callbacks.
+[00:03:35]: Shutting down

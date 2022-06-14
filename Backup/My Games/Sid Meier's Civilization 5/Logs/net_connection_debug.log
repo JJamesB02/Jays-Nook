@@ -1,0 +1,10 @@
+[27793.468] DBG: STEAM: RequestLobbies
+[27793.468] DBG:        RequestLobbies filters = 
+[27793.468] DBG:        assets_hash, YouCantTellMeWhatToDo!
+[27793.468] DBG:        game_version, 403694 FINAL_RELEASE
+[27793.468] DBG: GameListUpdate: GAMELISTUPDATE_CLEAR
+[27793.625] DBG: GameListUpdate: Action(3) LobbyID(0) LobbyType(2) SearchType(0)
+[27793.625] DBG: GameListUpdate: Action(3) LobbyID(1) LobbyType(2) SearchType(0)
+[27793.625] DBG: GameListUpdate: Action(3) LobbyID(2) LobbyType(2) SearchType(0)
+[27793.625] DBG: GameListUpdate: Action(3) LobbyID(3) LobbyType(2) SearchType(0)
+[27793.625] DBG: GameListUpdate: GAMELISTUPDATE_COMPLETE

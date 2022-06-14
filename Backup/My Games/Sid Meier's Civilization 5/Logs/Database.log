@@ -1,0 +1,55 @@
+[7173.359] columns StrategicViewType, TileType are not unique
+[7173.359] While executing - 'INSERT INTO ArtDefine_StrategicView(StrategicViewType, TileType, Asset) VALUES(?,?,?)'
+[7176.968] no such table: ContentPackage.LocalizedText
+[7176.968] no such table: ContentPackage.LocalizedText
+[7176.968] no such table: ContentPackage.LocalizedText
+[7178.109] no such table: ContentPackage.LocalizedText
+[7179.656] columns StrategicViewType, TileType are not unique
+[7179.656] While executing - 'INSERT INTO ArtDefine_StrategicView(StrategicViewType, TileType, Asset) VALUES(?,?,?)'
+[7180.656] no such table: ContentPackage.LocalizedText
+[7180.656] no such table: ContentPackage.LocalizedText
+[7180.656] no such table: ContentPackage.LocalizedText
+[7185.812] 
+-- SQLite Memory Statistics --
+Memory Usage:
+		[Cur]		[Max]
+Malloc:		6218312		75780896
+PageCache:	6		12
+LookAside:	0		0
+Scratch:	0		1
+
+Static Buffer Overflows:
+		[TooLarge]	[NoSpace]
+PageCache:	5803560		62876016
+Scratch:	0		0
+
+Largest Allocations:
+Malloc:		262144
+PageCache:	1172
+Scratch:	6640
+
+Prepared Statements:
+Current:		6
+------------------------------
+[7186.281] 
+-- SQLite Memory Statistics --
+Memory Usage:
+		[Cur]		[Max]
+Malloc:		6219488		75780896
+PageCache:	6		12
+LookAside:	0		0
+Scratch:	0		1
+
+Static Buffer Overflows:
+		[TooLarge]	[NoSpace]
+PageCache:	5804736		62876016
+Scratch:	0		0
+
+Largest Allocations:
+Malloc:		262144
+PageCache:	1172
+Scratch:	6640
+
+Prepared Statements:
+Current:		6
+------------------------------
